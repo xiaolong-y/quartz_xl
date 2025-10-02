@@ -1,8 +1,8 @@
 ---
-title: Personal Knowledge Vault
+title: Xiaolong's Knowledge Garden
 ---
 
-Welcome to the public face of my Obsidian-first knowledge vault. This Quartz site mirrors the notes I cultivate in `/vault_root_git`, turning a personal research workspace into a shareable digital garden.
+Welcome to the public face of my Obsidian-first knowledge vault. This garden mirrors the notes I cultivate in `/vault_root_git`, turning a personal research workspace into a shareable digital commons.
 
 ## Vault at a Glance
 - `00_inbox/` captures raw ideas that still need triage.
