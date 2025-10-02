@@ -1,20 +1,23 @@
 ---
-title: Welcome to Quartz
+title: Personal Knowledge Vault
 ---
 
-Welcome to my digital garden built with Quartz. This space collects the ideas, notes, and references that I am actively exploring and refining.
+Welcome to the public face of my Obsidian-first knowledge vault. This Quartz site mirrors the notes I cultivate in `/vault_root_git`, turning a personal research workspace into a shareable digital garden.
 
-## What to expect
-- Evergreen notes that capture lessons learned, experiments, and works in progress
-- Project pages that document current goals, research directions, and design drafts
-- Reference material for tools, frameworks, and workflows I use regularly
+## Vault at a Glance
+- `00_inbox/` captures raw ideas that still need triage.
+- `10_daily/` hosts dated journals and ongoing reflections.
+- `20_projects/` tracks active work such as policy courses and research experiments.
+- `30_evergreen/` stores durable concepts, including the full naming convention reference.
+- `40_literature/` collects source-driven summaries.
+- `50_mocs/` maps the territory with dashboards, quick stats, and browsing hubs.
 
-## How to explore
-- Use the global search to jump directly to topics or keywords
-- Follow the backlinks at the bottom of each note to trace how ideas connect
-- Open the graph view to visualize relationships between concepts at a glance
+## Workflow Highlights
+- A consistent naming system keeps search and autocomplete fast across note types.
+- Dataview-powered dashboards surface recent daily notes, inbox items, projects, and reading activity.
+- Refactoring scripts and templates maintain the flat, link-centric structure without losing history.
 
-## Staying in touch
-I update the garden frequently. If you have questions, spot something worth improving, or want to collaborate, feel free to open an issue or reach out through the contact links in the footer.
+## Explore the Garden
+Use the search box to jump to topics or note types (e.g., “Meet 2025” or “Bayesian”). Follow backlinks to trace how ideas connect, and open the graph view for a systems-level snapshot. If you spot something worth improving or want to collaborate, reach out through the contact links in the footer.
 
-Enjoy wandering through the notes!
+Thanks for stopping by—enjoy wandering through the vault.
